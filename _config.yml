@@ -2,18 +2,16 @@
 ## 文档: https://hexo.io/docs/configuration.html
 
 # 网站
-title: "符号看象限"
+title: "数字森林"
 subtitle: ""
 description: "博客、分享、经验、教程"
-keywords: "御坂网络工作室,博客,分享,经验,教程"
-author: "YangRucheng"
+keywords: "数字世界,博客,分享,经验,教程"
+author: "senlin"
 language: "zh-CN"
 timezone: "Asia/Shanghai"
-favicon:
-  small: /favicon.ico
 
 # 链接
-url: https://blog.yangrucheng.top
+url: https://ruihan.xin
 permalink: posts/:year/:month/:hash/
 pretty_urls:
   trailing_index: false
@@ -52,11 +50,4 @@ updated_option: "mtime"
 # 扩展
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-#theme: "butterfly"
-remote_theme: jerryc127/hexo-theme-butterfly
-
-# 访问统计
-busuanzi:
-  site_uv: true
-  site_pv: true
-  page_pv: true
+theme: "butterfly"
